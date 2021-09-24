@@ -1,2 +1,0 @@
-# project18m
-salezman
