@@ -183,6 +183,5 @@
     <orderEntry type="library" name="Gradle: com.github.iwgang:countdownview:2.1.6@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.installreferrer:installreferrer:1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
-    <orderEntry type="module" module-name="quizapp.nativetemplates" />
   </component>
 </module>

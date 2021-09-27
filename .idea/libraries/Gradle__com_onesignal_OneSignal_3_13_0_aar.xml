@@ -10,6 +10,9 @@
       <root url="jar://$PROJECT_DIR$/caches/transforms-2/files-2.1/d665a44fa1ebdcd5a6bc1fc3e766a83c/jetified-OneSignal-3.13.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/caches/transforms-2/files-2.1/d665a44fa1ebdcd5a6bc1fc3e766a83c/jetified-OneSignal-3.13.0/res" />
       <root url="file://$PROJECT_DIR$/caches/transforms-2/files-2.1/d665a44fa1ebdcd5a6bc1fc3e766a83c/jetified-OneSignal-3.13.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa0211b508c046163134aa9bac2325ae/jetified-OneSignal-3.13.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa0211b508c046163134aa9bac2325ae/jetified-OneSignal-3.13.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa0211b508c046163134aa9bac2325ae/jetified-OneSignal-3.13.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

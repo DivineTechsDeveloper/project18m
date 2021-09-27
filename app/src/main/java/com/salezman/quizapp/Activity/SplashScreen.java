@@ -71,7 +71,7 @@ public class SplashScreen extends AppCompatActivity implements ConnectivityRecei
             if (checkPermission()) {
                 boolean isConnected = ConnectivityReceiver.isConnected();
                 if (isConnected) {
-                    checkStatus();
+                    generalSettings();
                 }
             } else {
                 Permission();
